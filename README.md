@@ -97,6 +97,7 @@ Step14. click on debug and simulate using simulation as shown below
 
 ## STM 32 CUBE PROGRAM :
 ```
+//To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope 
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
